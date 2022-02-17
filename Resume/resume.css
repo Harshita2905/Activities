@@ -1,0 +1,43 @@
+#main1{
+    border: solid 2px;
+    padding: 15px;
+    width: auto;
+    margin: 20px;
+}
+#div1{
+    font-weight: bold;
+}
+#div2{
+    border: hidden;
+    background-color: rgb(151, 146, 146);
+    color: white;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border: rgb(199, 194, 194);
+}
+th, td{
+    border: solid black 1px;
+   padding: 4px;
+   text-align: left; 
+}
+#tr1{
+    border: solid 1.5px rgb(199, 194, 194);
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(199, 194, 194);
+}
+
+#p2{
+    white-space: nowrap;
+}
+#td1{
+    border: solid 2px;
+    padding: 6px;
+}
+#tr2{
+    border: solid 1.5px rgb(199, 194, 194);
+    text-align: center;
+}
+
