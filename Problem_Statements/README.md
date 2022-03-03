@@ -1,0 +1,2 @@
+Problem Statement-I
+    Rainwater can only be trapped if there exists a block of greater height both on the left and right side than the current block.Then rainwater can be trapped on top of the block.So the amount of water a block can hold is equal to the minimum of the maximum height present on both left and right half minus the height of current block.
