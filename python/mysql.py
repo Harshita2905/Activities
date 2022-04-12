@@ -5,7 +5,7 @@ db = mysql.connector.connect(
   host="localhost",
   port=3306,
   user="root",
-  password="harshitaT",
+  password="harsh5chal",
   auth_plugin='mysql_native_password',
   database = "practice"
 )
